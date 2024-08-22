@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # MySQL connection parameters
-MYSQL_HOST=mahar-prod-clone-test.c4kpuy5wuh6q.us-east-1.rds.amazonaws.com
-MYSQL_USER=doadmin
-MYSQL_PASSWORD=mahardb!!
-MYSQL_DATABASE=old2new
+MYSQL_HOST=$host
+MYSQL_USER=$user
+MYSQL_PASSWORD=$Pw
+MYSQL_DATABASE=$Db
 
 # Set Variable 
 
